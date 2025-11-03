@@ -4,6 +4,6 @@
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://amil-gasimov.vercel.app/">Amil</a></b>.
 </samp>
   <br>
-   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJjM250NjZxNm12dXVlaWFvZDB4dDhwaDJhbW90d3pndzJ2eDY0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sOfgYMHGUNOpYQlI5p/giphy.gif" width="220"/>
+ <img src="https://github.com/amilog/amilgasimov/assets/93605485/e135f85e-910f-4a25-97ee-df055483d707" width="240"/>
   </br>
 </p>
